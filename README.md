@@ -22,9 +22,7 @@ Session: Spring’18<br>
   <li>Tree leaf motion effect</li>
   <li>Moving flag motion effect</li>
   </ul>
-  
-  <h2>Demo video link:- https://youtu.be/oORTezHY7NI</h2>
-
+  <hr><h2>Demo video link:- https://youtu.be/oORTezHY7NI</h2><hr>
 <h3>Screenshots</h3>
 <img src="https://github.com/arifur-rafid/Bongobondhu-Sheikh-Mujibur-Rahman-Novo-Theater-OpenGL/blob/master/images/1.png" ><br>
 <img src="https://github.com/arifur-rafid/Bongobondhu-Sheikh-Mujibur-Rahman-Novo-Theater-OpenGL/blob/master/images/2.png" ><br>
